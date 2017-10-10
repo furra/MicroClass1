@@ -1,44 +1,36 @@
 @title[Introduction]
-#<p align="center"> What is the Internet?</p>
+<h1>The Internet</h1>
 
-<center>
-<img>![](/home/furra/Documents/ticc/monitor.jpg)</img>
-</center>
+![](assets/monitor.jpg)
 
 ---
+<h1>What is the internet?</h1>
 
-
-
-
-##<p align="center" vertical-align= "middle"> Ideas?</p>
+Ideas?
 </br>
-</br>
-##<p align="center" vertical-align= "middle"> How does it work?</p>
+How does it work?
 
 ---
-
 @title[WWW]
 
-##<p align="center" vertical-align= "middle"> WWW: The World Wide Web</p>
+<h2>WWW: The World Wide Web</h2>
 
 * Information space
 * Web resources
 * URL
 
 ---
-
 @title[HTTP]
 
-##<p align="center" vertical-align= "middle"> HTTP</p>
+<h2>HTTP</h2>
 <br/>
 <br/>
-###<p align="center">HyperText Transfer Protocol</p>
+HyperText Transfer Protocol
 
 ---
-
 @title[Webpages]
 
-##<p align="center" vertical-align= "middle"> Webpages</p>
+<h2>Webpages</h2>
 
 * Browser? 
 * Webpage? 
@@ -46,7 +38,6 @@
 * HTML?
 
 ---
-
 @title[Summary]
 
 * Internet
@@ -54,3 +45,8 @@
 * HTTP
 * Webpages
 * HTML
+
+---
+@title[Questions]
+
+<h1>Any questions?</h1>
