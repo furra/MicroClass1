@@ -1,19 +1,18 @@
 @title[Introduction]
-<h1>The Internet</h1>
+<h2>The Internet</h2>
 
 ![](assets/monitor.jpg)
 
 ---
-<h1>What is the internet?</h1>
+<h3>What is the internet?</h3>
 
-Ideas?
-</br>
-How does it work?
+- Ideas? |
+- How does it work? |
 
 ---
 @title[WWW]
 
-<h2>WWW: The World Wide Web</h2>
+<h3>WWW: The World Wide Web</h3>
 
 * Information space
 * Web resources
@@ -22,7 +21,7 @@ How does it work?
 ---
 @title[HTTP]
 
-<h2>HTTP</h2>
+<h3>HTTP</h3>
 <br/>
 <br/>
 HyperText Transfer Protocol
@@ -30,7 +29,7 @@ HyperText Transfer Protocol
 ---
 @title[Webpages]
 
-<h2>Webpages</h2>
+<h3>Webpages</h3>
 
 * Browser? 
 * Webpage? 
@@ -40,6 +39,7 @@ HyperText Transfer Protocol
 ---
 @title[Summary]
 
+<h3>Summary</h3>
 * Internet
 * WWW
 * HTTP
