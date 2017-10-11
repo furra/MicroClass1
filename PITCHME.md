@@ -14,9 +14,9 @@
 
 <h3>WWW: The World Wide Web</h3>
 
-* Information space
-* Web resources
-* URL
+* Information space |
+* Web resources |
+* URL |
 
 ---
 @title[HTTP]
